@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ch-sai-sumanth/**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1bXiRtlljfc_0CKXCtzOjdK38HYMRm3bK/edit?usp=sharing&ouid=102260962442718203506&rtpof=true&sd=true](https://docs.google.com/document/d/1bXiRtlljfc_0CKXCtzOjdK38HYMRm3bK/edit?usp=sharing&ouid=102260962442718203506&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1bXiRtlljfc_0CKXCtzOjdK38HYMRm3bK/edit?usp=sharing&ouid=102260962442718203506&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
