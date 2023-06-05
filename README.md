@@ -9,7 +9,7 @@
 
 <img align="right" alt="coding" width="275" src="http://surl.li/hrbkp">
 
-- 🔭 I’m currently working on [ConnectU](https://github.com/ch-sai-sumanth/ConnectU-Application.git)
+- 🔭 I’m currently working on [ConnectU Application](https://github.com/ch-sai-sumanth/ConnectU-Application.git)
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ch-sai-sumanth?tab=repositories](https://github.com/ch-sai-sumanth?tab=repositories)
