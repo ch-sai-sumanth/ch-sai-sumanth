@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sumanth</h1>
+<h1 align="center">Hi 👋, I'm Sumanth</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
 **I am a passionate software developer with a Bachelors of Technology degree in Computer Engineering💻. Proficient in Core Java, Spring Boot, Hibernate, OOPs concepts, HTML, and CSS, I have experience building robust applications using Core Java and implementing object-oriented programming principles. I excel at developing feature-rich web applications using Spring Boot. Additionally, I am knowledgeable in Hibernate for efficient database management. Currently, I am upskilling myself by exploring new technologies. I am dedicated to writing clean, maintainable code and staying updated with the latest advancements in the field. I am actively seeking new opportunities to collaborate on exciting projects. Let's connect and discuss ideas to create innovative solutions in the world of software development!**
