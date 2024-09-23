@@ -77,7 +77,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ch-sai-sumanth/**
 
-- 📄 Know about my experiences 👉[My Resume](https://drive.google.com/file/d/1R3eNVnKBkdEymXngeDghpVmHW__WzYE0/view?usp=sharing)
+- 📄 Know about my experiences 👉[My Resume](https://drive.google.com/file/d/1kCHZ7Jvc5jb2GnhV-SEF7FZy-GE8GyfD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
