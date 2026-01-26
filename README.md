@@ -12,14 +12,10 @@
 
 ### Programming Languages
 - **Java**  
-- **SQL**  
+- **C#**  
 
 ### Frameworks & Libraries
-- **Spring Boot**  
-- **Spring MVC**  
-- **Spring Security**  
-- **Hibernate**  
-- **JPA**  
+- **Dotnet**          
 - **Microservices**  
 - **Monolithic Applications**  
 - **API Gateway**  
